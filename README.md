@@ -1,10 +1,10 @@
-# 🏢 Building Edge Detection
+# Building Edge Detection
 
 This project uses a **deep learning U-Net model** to detect the **edges of buildings** from aerial or satellite images, so disaster-response teams can plan an optimised path through affected areas.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `dataset/`
   - `images/` — Input images for segmentation.
@@ -17,7 +17,7 @@ This project uses a **deep learning U-Net model** to detect the **edges of build
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. **Install the required libraries**:
 
